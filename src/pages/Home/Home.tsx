@@ -85,7 +85,7 @@ export default function Home() {
     {/* Modal content */}
     <div className="relative bg-white rounded-2xl shadow-xl max-w-lg w-full mx-4 p-8 text-center">
       <h2 className="text-2xl font-bold text-[#062F2C] mb-4">
-        Coming Soon 🚀
+        Coming Soooon 🚀  
       </h2>
 
       <p className="text-gray-600 mb-6">
